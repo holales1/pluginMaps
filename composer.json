@@ -1,0 +1,14 @@
+{
+    "name": "google-maps/google-maps-plugin",
+    "description": "Awesome starter plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "holales1",
+            "email": "alejandrovaltor.x2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
